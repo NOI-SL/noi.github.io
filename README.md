@@ -1,2 +1,2 @@
-# noi.github.io-
+# noi.github.io
 Official Website of NOI 
