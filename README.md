@@ -1,2 +1,2 @@
 # noi.github.io-
-Official Website of SLIOI 
+Official Website of NOI 
